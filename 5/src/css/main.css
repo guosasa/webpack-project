@@ -1,0 +1,6 @@
+.box {
+    width: 171px;
+    height: 55px;
+    display: block;
+   background: url("../img/logo.png");
+}
